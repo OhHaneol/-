@@ -7,6 +7,6 @@
 
 1. [method/class](#method/class)
 
-### method/class
+## method/class
  
 </details>
