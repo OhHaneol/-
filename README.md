@@ -7,6 +7,7 @@
 
 <details markdown="1">
 <summary>목차</summary>
+
 1. [게임 설명](#게임 설명)
 2. [method/class](#method/class)
 
