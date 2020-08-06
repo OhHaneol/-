@@ -24,7 +24,9 @@
 
 ## 제작 과정
 >1. 바닥과 벽 제작
->> 1. 새로운 프로젝트를 생성 후 바닥 Plane 오브젝트 만들기.(Hierarchy > Create > 3D Object > Plane) 인스펙터 창에서 Plane 오브젝트의 Transform 컴포넌트의 스케일을 (2, 1, 2)로 변경<br>2. Cube 오브젝트로 벽 만들기.(Hierarchy > Create > 3D Object > Cube) 가로 세로 길이<br>3. <br>4. <br>5. <br>6. <br>7. <br>8. 
+>>1. 새로운 프로젝트를 생성 후 바닥 Plane 오브젝트 만들기.(Hierarchy > Create > 3D Object > Plane)<br>인스펙터 창에서 Plane 오브젝트의 Transform 컴포넌트의 스케일을 (2, 1, 2)로 변경<br>Plane 오브젝트에 색을 입히기 위해 새로 머터리얼 생성(Project > Create > Material) 후 이름을 Plane Color로 변경.<br>생성된 Plane Color 머터리얼을 선택하여 알베도의 컬러 필드에서 검은색으로 변경.<br>Plane Color 머터리얼을 씬 창의 Plane 게임 오브젝트로 드래그&드롭.
+>>2. Cube 오브젝트로 벽 생성(Hierarchy > Create > 3D Object > Cube) 후 이름을 Wall로 변경.<br>인스펙터 창에서 Position은 (0, 0.5, 0), Scale은 (20, 1, 1)로 변경.<br>하이어라키 창에서 Wall 게임 오브젝트를 선택 후 [Command+D]로 3개 더 복제하여 사방으로 위치 변경<br>
+
 >2. 플레이어 제작
 >>
 >3. 탄알 제작
