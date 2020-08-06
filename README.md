@@ -7,6 +7,7 @@
 ------------------------
 <details markdown="1">
 <summary>1. 게임 설명</summary>
+
 ## 게임 설명
 >사방에서 날아오는 총알을 가능한 한 피하는 탄막 슈팅 게임.<br>
 >+조작법+<br>
@@ -20,12 +21,14 @@
 
 <details markdown="1">
 <summary>2. 제작 과정</summary>
+
 ## 제작 과정
 
 </details>
 
 <details markdown="1">
 <summary>3. method/class</summary>
+
 ## method/class
 
 </details>
@@ -41,6 +44,7 @@
 ------------------------
 <details markdown="1">
 <summary>1. 게임 설명</summary>
+
 ## 게임 설명
 >설명<br>
 >+조작법+<br>
@@ -52,12 +56,14 @@
 
 <details markdown="1">
 <summary>2. 제작 과정</summary>
+
 ## 제작 과정
 
 </details>
 
 <details markdown="1">
 <summary>3. method/class</summary>
+
 ## method/class
 
 </details>
